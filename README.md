@@ -2,6 +2,11 @@
 
 This script will help with the processing of many `TIFF` files in a single shot.
 
+## Requirements
+- The only requirement is the `ImageMagick` package. Please, check based on your Operating System the best way to install it.
+
+## How to Use it
+
 Basically, you define some variables, as below
 ```
 # I'm hoping to see files with the extension .tif
